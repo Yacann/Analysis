@@ -1,0 +1,21 @@
+title: Analysis
+description: Конспект лекций по математическому анализу К.П.Кохася 2024-2025
+author: Кононов Григорий
+
+theme: minima
+
+baseurl: "/Analysis"
+repository: "Yacann/Analysis"
+
+github_username: Yacann
+telegram_username: CucumberMayoo
+
+header_pages:
+  - _pages/theorems.html
+  - _pages/definitions.html
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed

@@ -10,6 +10,9 @@ telegram_username: CucumberMayoo
 
 show_excerpts: true
 
+notes:
+  date_format: "%Y-%m-%d"
+
 header_pages:
   - _pages/theorems.html
   - _pages/definitions.html
